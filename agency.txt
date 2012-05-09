@@ -1,0 +1,2 @@
+agency_name,agency_url,agency_timezone,agency_lang
+Bull Runner,http://usfweb2.usf.edu/Parking_services/bullrunneroperationhours.asp,America/New_York,en

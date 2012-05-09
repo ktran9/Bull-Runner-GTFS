@@ -1,0 +1,13 @@
+route_id,service_id,trip_id,shape_id
+A,Mo,1,0
+A,Fr,2,0
+B,Mo,3,1
+B,Fr,4,1
+C,Mo,5,2
+C,Fr,6,2
+C,Su,7,2
+D,Mo,8,3
+D,Fr,9,3
+D,Su,10,3
+E,Mo,11,4
+E,Fr,12,4
